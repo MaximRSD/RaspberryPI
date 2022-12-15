@@ -28,3 +28,34 @@ b.py
 
 https://user-images.githubusercontent.com/45556790/207865352-7c663794-8c21-420e-88a1-dd6f7ce9c1c3.MOV
 
+c.py
+
+https://user-images.githubusercontent.com/45556790/207865650-aa3ac02b-06c7-4293-bc5b-41722a7112c6.MOV
+
+Opdracht 4
+
+a.py
+
+https://user-images.githubusercontent.com/45556790/207866198-e6708e73-6ccf-4650-9337-b00bdcb65a42.MOV
+
+b.py
+
+https://user-images.githubusercontent.com/45556790/207866252-56a31eb2-4570-48d9-86c9-70358589bc53.MOV
+
+c.py
+
+https://user-images.githubusercontent.com/45556790/207866726-b99d7fbf-b53b-46d5-8a82-eff499cb3bb8.MOV
+
+Opdracht 5
+
+a.py
+
+https://user-images.githubusercontent.com/45556790/207866833-0372ee75-88b3-4db3-8fe7-a56711d90330.MOV
+
+
+
+
+
+
+
+
