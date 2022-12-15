@@ -50,11 +50,12 @@ Opdracht 5
 
 a.py
 
-https://user-images.githubusercontent.com/45556790/207866833-0372ee75-88b3-4db3-8fe7-a56711d90330.MOV
+https://user-images.githubusercontent.com/45556790/207872593-a1979dfa-a988-46d6-9feb-bb889e7cc9d0.MOV
 
 b.py
 
-https://user-images.githubusercontent.com/45556790/207872593-a1979dfa-a988-46d6-9feb-bb889e7cc9d0.MOV
+https://user-images.githubusercontent.com/45556790/207872851-9d7ae742-bf2a-4162-b065-e4a1b2681a5d.MOV
+
 
 
 
