@@ -56,6 +56,10 @@ b.py
 
 https://user-images.githubusercontent.com/45556790/207872851-9d7ae742-bf2a-4162-b065-e4a1b2681a5d.MOV
 
+c.py
+
+https://user-images.githubusercontent.com/45556790/207882566-f221bf2b-294c-452a-bf37-810f6edc69df.MOV
+
 
 
 
